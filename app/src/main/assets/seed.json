@@ -1,0 +1,1649 @@
+{
+ "products": [
+  {
+   "id": "asad",
+   "name": "Asad",
+   "brand": "Lattafa",
+   "cat": [
+    "men",
+    "arabic"
+   ],
+   "gender": "Men",
+   "family": "Woody Aromatic",
+   "sizes": [
+    [
+     100,
+     2650,
+     3200,
+     26
+    ]
+   ],
+   "notes": {
+    "t": [
+     "Pineapple",
+     "Blackcurrant",
+     "Bergamot"
+    ],
+    "m": [
+     "Lavender",
+     "Tobacco",
+     "Violet"
+    ],
+    "b": [
+     "Vanilla",
+     "Ambroxan",
+     "Cedar"
+    ]
+   },
+   "lon": 4,
+   "proj": 4,
+   "seasons": [
+    "Autumn",
+    "Winter",
+    "Spring"
+   ],
+   "occ": [
+    "Office",
+    "Evening",
+    "Date"
+   ],
+   "rate": 4.7,
+   "rc": 184,
+   "tags": [
+    "best",
+    "sale"
+   ],
+   "like": [
+    "Dior Sauvage",
+    "Tom Ford Tobacco Vanille"
+   ],
+   "glass": "#2B2018",
+   "cap": "#C08A2E",
+   "desc": "The bottle that made Lattafa famous in Addis. Opens sharp and fruity, dries down warm and smoky. If you wear Sauvage and want the same energy for a third of the price, start here."
+  },
+  {
+   "id": "khamrah",
+   "name": "Khamrah",
+   "brand": "Lattafa",
+   "cat": [
+    "unisex",
+    "arabic"
+   ],
+   "gender": "Unisex",
+   "family": "Amber Spicy Gourmand",
+   "sizes": [
+    [
+     100,
+     3100,
+     3900,
+     18
+    ]
+   ],
+   "notes": {
+    "t": [
+     "Cinnamon",
+     "Nutmeg",
+     "Bergamot"
+    ],
+    "m": [
+     "Dates",
+     "Praline",
+     "Mahonial"
+    ],
+    "b": [
+     "Vanilla",
+     "Tonka",
+     "Akigalawood",
+     "Benzoin"
+    ]
+   },
+   "lon": 5,
+   "proj": 4,
+   "seasons": [
+    "Autumn",
+    "Winter"
+   ],
+   "occ": [
+    "Evening",
+    "Wedding",
+    "Eid"
+   ],
+   "rate": 4.8,
+   "rc": 231,
+   "tags": [
+    "best",
+    "sale"
+   ],
+   "like": [
+    "Kilian Angels' Share"
+   ],
+   "glass": "#4A2A1C",
+   "cap": "#E3C378",
+   "desc": "Spiced dates and boozy vanilla. This is the one people stop you about at weddings. Heavy for a hot afternoon, perfect after sunset."
+  },
+  {
+   "id": "yara",
+   "name": "Yara",
+   "brand": "Lattafa",
+   "cat": [
+    "women",
+    "arabic"
+   ],
+   "gender": "Women",
+   "family": "Floral Gourmand",
+   "sizes": [
+    [
+     100,
+     2450,
+     2900,
+     31
+    ]
+   ],
+   "notes": {
+    "t": [
+     "Orchid",
+     "Heliotrope"
+    ],
+    "m": [
+     "Tahitian Vanilla",
+     "Gourmand accord"
+    ],
+    "b": [
+     "Sandalwood",
+     "Musk"
+    ]
+   },
+   "lon": 4,
+   "proj": 5,
+   "seasons": [
+    "All year"
+   ],
+   "occ": [
+    "Daily",
+    "Campus",
+    "Gift"
+   ],
+   "rate": 4.6,
+   "rc": 298,
+   "tags": [
+    "best",
+    "sale"
+   ],
+   "like": [
+    "Kayali Vanilla 28"
+   ],
+   "glass": "#C48AA8",
+   "cap": "#E3C378",
+   "desc": "Creamy vanilla and soft flowers, very loud for the price. The most gifted bottle in the shop — teenagers and mothers both wear it."
+  },
+  {
+   "id": "9pm",
+   "name": "9PM",
+   "brand": "Afnan",
+   "cat": [
+    "men",
+    "arabic"
+   ],
+   "gender": "Men",
+   "family": "Amber Spicy",
+   "sizes": [
+    [
+     100,
+     3200,
+     3800,
+     21
+    ]
+   ],
+   "notes": {
+    "t": [
+     "Apple",
+     "Cinnamon",
+     "Lavender"
+    ],
+    "m": [
+     "Orange Blossom",
+     "Vanilla"
+    ],
+    "b": [
+     "Tonka",
+     "Amber",
+     "Vetiver"
+    ]
+   },
+   "lon": 4,
+   "proj": 4,
+   "seasons": [
+    "Autumn",
+    "Winter"
+   ],
+   "occ": [
+    "Evening",
+    "Date",
+    "Party"
+   ],
+   "rate": 4.7,
+   "rc": 167,
+   "tags": [
+    "best",
+    "sale"
+   ],
+   "like": [
+    "Dior Sauvage",
+    "YSL Y EDP"
+   ],
+   "glass": "#1B2C3E",
+   "cap": "#C9C2B4",
+   "desc": "Sweet apple over lavender and tonka. Made for the hours it is named after — put it on at nine and it is still there at two."
+  },
+  {
+   "id": "supremacy",
+   "name": "Supremacy Not Only Intense",
+   "brand": "Afnan",
+   "cat": [
+    "men",
+    "arabic"
+   ],
+   "gender": "Men",
+   "family": "Fruity Woody",
+   "sizes": [
+    [
+     100,
+     3900,
+     0,
+     12
+    ]
+   ],
+   "notes": {
+    "t": [
+     "Pineapple",
+     "Bergamot",
+     "Blackcurrant"
+    ],
+    "m": [
+     "Birch",
+     "Patchouli",
+     "Jasmine"
+    ],
+    "b": [
+     "Musk",
+     "Oakmoss",
+     "Ambergris"
+    ]
+   },
+   "lon": 4,
+   "proj": 4,
+   "seasons": [
+    "Spring",
+    "Summer",
+    "Autumn"
+   ],
+   "occ": [
+    "Office",
+    "Daily",
+    "Interview"
+   ],
+   "rate": 4.5,
+   "rc": 96,
+   "tags": [
+    "new"
+   ],
+   "like": [
+    "Creed Aventus"
+   ],
+   "glass": "#22303A",
+   "cap": "#8A8F92",
+   "desc": "Smoky pineapple. A clean, expensive-smelling office scent that behaves itself in a meeting room."
+  },
+  {
+   "id": "cdni",
+   "name": "Club de Nuit Intense Man",
+   "brand": "Armaf",
+   "cat": [
+    "men",
+    "arabic"
+   ],
+   "gender": "Men",
+   "family": "Fruity Smoky",
+   "sizes": [
+    [
+     105,
+     3650,
+     4400,
+     17
+    ],
+    [
+     30,
+     1450,
+     0,
+     24
+    ]
+   ],
+   "notes": {
+    "t": [
+     "Pineapple",
+     "Lemon",
+     "Blackcurrant",
+     "Apple"
+    ],
+    "m": [
+     "Birch",
+     "Jasmine",
+     "Rose"
+    ],
+    "b": [
+     "Musk",
+     "Vanilla",
+     "Ambergris",
+     "Patchouli"
+    ]
+   },
+   "lon": 5,
+   "proj": 5,
+   "seasons": [
+    "All year"
+   ],
+   "occ": [
+    "Office",
+    "Evening",
+    "Wedding"
+   ],
+   "rate": 4.8,
+   "rc": 412,
+   "tags": [
+    "best",
+    "sale"
+   ],
+   "like": [
+    "Creed Aventus"
+   ],
+   "glass": "#1A1D22",
+   "cap": "#B8BCC0",
+   "desc": "The most requested bottle in Ethiopia, and for good reason. Pineapple and birch smoke with monstrous performance. One spray is enough."
+  },
+  {
+   "id": "odyssey",
+   "name": "Odyssey Mandarin Sky",
+   "brand": "Armaf",
+   "cat": [
+    "unisex",
+    "arabic"
+   ],
+   "gender": "Unisex",
+   "family": "Citrus Woody",
+   "sizes": [
+    [
+     105,
+     3400,
+     0,
+     14
+    ]
+   ],
+   "notes": {
+    "t": [
+     "Mandarin",
+     "Bergamot",
+     "Ginger"
+    ],
+    "m": [
+     "Neroli",
+     "Cardamom"
+    ],
+    "b": [
+     "Cedar",
+     "Amber",
+     "Musk"
+    ]
+   },
+   "lon": 3,
+   "proj": 3,
+   "seasons": [
+    "Summer",
+    "Spring"
+   ],
+   "occ": [
+    "Daily",
+    "Office",
+    "Travel"
+   ],
+   "rate": 4.4,
+   "rc": 71,
+   "tags": [
+    "new"
+   ],
+   "like": [
+    "Louis Vuitton Afternoon Swim"
+   ],
+   "glass": "#D89A3C",
+   "cap": "#F0E6D2",
+   "desc": "Bright mandarin over soft wood. Built for Addis at midday when anything heavier is a mistake."
+  },
+  {
+   "id": "hawas",
+   "name": "Hawas for Him",
+   "brand": "Rasasi",
+   "cat": [
+    "men",
+    "luxury",
+    "arabic"
+   ],
+   "gender": "Men",
+   "family": "Aquatic Fruity",
+   "sizes": [
+    [
+     100,
+     4900,
+     5600,
+     9
+    ]
+   ],
+   "notes": {
+    "t": [
+     "Apple",
+     "Bergamot",
+     "Cinnamon"
+    ],
+    "m": [
+     "Sea notes",
+     "Jasmine",
+     "Ginger"
+    ],
+    "b": [
+     "Amber",
+     "Musk",
+     "Oak"
+    ]
+   },
+   "lon": 4,
+   "proj": 4,
+   "seasons": [
+    "Summer",
+    "Spring"
+   ],
+   "occ": [
+    "Daily",
+    "Beach",
+    "Office"
+   ],
+   "rate": 4.7,
+   "rc": 143,
+   "tags": [
+    "sale"
+   ],
+   "like": [
+    "Creed Aventus",
+    "Bleu de Chanel"
+   ],
+   "glass": "#2E5C86",
+   "cap": "#D6D9DC",
+   "desc": "Salty apple and amber. The compliment machine of the fresh category, and it holds up in real heat."
+  },
+  {
+   "id": "layuq",
+   "name": "La Yuqawam Pour Homme",
+   "brand": "Rasasi",
+   "cat": [
+    "men",
+    "luxury",
+    "arabic"
+   ],
+   "gender": "Men",
+   "family": "Leather Fruity",
+   "sizes": [
+    [
+     75,
+     5800,
+     0,
+     7
+    ]
+   ],
+   "notes": {
+    "t": [
+     "Pineapple",
+     "Bergamot",
+     "Grapefruit"
+    ],
+    "m": [
+     "Leather",
+     "Cinnamon",
+     "Rose"
+    ],
+    "b": [
+     "Oud",
+     "Sandalwood",
+     "Musk"
+    ]
+   },
+   "lon": 5,
+   "proj": 4,
+   "seasons": [
+    "Autumn",
+    "Winter"
+   ],
+   "occ": [
+    "Evening",
+    "Formal",
+    "Wedding"
+   ],
+   "rate": 4.6,
+   "rc": 58,
+   "tags": [],
+   "like": [
+    "Creed Aventus",
+    "Tom Ford Tuscan Leather"
+   ],
+   "glass": "#5B2E22",
+   "cap": "#C08A2E",
+   "desc": "Fruit over real leather. Formal, grown, and unmistakably Gulf in the best way."
+  },
+  {
+   "id": "malaki",
+   "name": "Mukhallat Malaki",
+   "brand": "Ahmed Al Maghribi",
+   "cat": [
+    "oud",
+    "arabic",
+    "unisex"
+   ],
+   "gender": "Unisex",
+   "family": "Oud Rose",
+   "sizes": [
+    [
+     100,
+     4200,
+     0,
+     11
+    ]
+   ],
+   "notes": {
+    "t": [
+     "Saffron",
+     "Cardamom"
+    ],
+    "m": [
+     "Taif Rose",
+     "Geranium"
+    ],
+    "b": [
+     "Cambodian Oud",
+     "Amber",
+     "Musk"
+    ]
+   },
+   "lon": 5,
+   "proj": 5,
+   "seasons": [
+    "Autumn",
+    "Winter"
+   ],
+   "occ": [
+    "Eid",
+    "Wedding",
+    "Mosque"
+   ],
+   "rate": 4.9,
+   "rc": 64,
+   "tags": [
+    "best"
+   ],
+   "like": [
+    "Amouage Interlude"
+   ],
+   "glass": "#3A2118",
+   "cap": "#C08A2E",
+   "desc": "Saffron, rose and dense agarwood. The classic mukhallat profile — one spray on cloth lasts through the day and into the next."
+  },
+  {
+   "id": "nafisa",
+   "name": "Nafisa",
+   "brand": "Ahmed Al Maghribi",
+   "cat": [
+    "women",
+    "arabic"
+   ],
+   "gender": "Women",
+   "family": "Floral Musk",
+   "sizes": [
+    [
+     100,
+     3700,
+     4300,
+     13
+    ]
+   ],
+   "notes": {
+    "t": [
+     "Peach",
+     "Bergamot"
+    ],
+    "m": [
+     "Rose",
+     "Jasmine",
+     "Ylang"
+    ],
+    "b": [
+     "White Musk",
+     "Sandalwood",
+     "Vanilla"
+    ]
+   },
+   "lon": 4,
+   "proj": 3,
+   "seasons": [
+    "All year"
+   ],
+   "occ": [
+    "Daily",
+    "Office",
+    "Gift"
+   ],
+   "rate": 4.6,
+   "rc": 87,
+   "tags": [
+    "sale"
+   ],
+   "like": [
+    "Chanel Chance"
+   ],
+   "glass": "#D9A9B4",
+   "cap": "#E3C378",
+   "desc": "Powdery rose and clean musk. Soft enough for the office, pretty enough for a coffee date."
+  },
+  {
+   "id": "jeanlowe",
+   "name": "Jean Lowe Ombre",
+   "brand": "Maison Alhambra",
+   "cat": [
+    "men",
+    "arabic"
+   ],
+   "gender": "Men",
+   "family": "Leather Spicy",
+   "sizes": [
+    [
+     100,
+     2900,
+     3500,
+     19
+    ]
+   ],
+   "notes": {
+    "t": [
+     "Cardamom",
+     "Nutmeg"
+    ],
+    "m": [
+     "Leather",
+     "Jasmine",
+     "Violet"
+    ],
+    "b": [
+     "Amber",
+     "Patchouli",
+     "Tonka"
+    ]
+   },
+   "lon": 4,
+   "proj": 4,
+   "seasons": [
+    "Autumn",
+    "Winter"
+   ],
+   "occ": [
+    "Evening",
+    "Formal",
+    "Date"
+   ],
+   "rate": 4.6,
+   "rc": 112,
+   "tags": [
+    "sale",
+    "best"
+   ],
+   "like": [
+    "Tom Ford Ombré Leather"
+   ],
+   "glass": "#2A2118",
+   "cap": "#3A3F42",
+   "desc": "Smooth leather and cardamom. The cheapest honest route to that Tom Ford leather feeling."
+  },
+  {
+   "id": "delilah",
+   "name": "Delilah",
+   "brand": "Maison Alhambra",
+   "cat": [
+    "women",
+    "arabic"
+   ],
+   "gender": "Women",
+   "family": "Floral Fruity",
+   "sizes": [
+    [
+     100,
+     2800,
+     0,
+     22
+    ]
+   ],
+   "notes": {
+    "t": [
+     "Lychee",
+     "Rhubarb",
+     "Bergamot"
+    ],
+    "m": [
+     "Turkish Rose",
+     "Peony"
+    ],
+    "b": [
+     "Vanilla",
+     "Cashmere Wood",
+     "Musk"
+    ]
+   },
+   "lon": 4,
+   "proj": 4,
+   "seasons": [
+    "Spring",
+    "Summer"
+   ],
+   "occ": [
+    "Daily",
+    "Party",
+    "Gift"
+   ],
+   "rate": 4.5,
+   "rc": 129,
+   "tags": [
+    "new"
+   ],
+   "like": [
+    "Parfums de Marly Delina"
+   ],
+   "glass": "#E0A8B8",
+   "cap": "#E3C378",
+   "desc": "Lychee and rose with a vanilla landing. Sweet, feminine, and far cheaper than the bottle it takes after."
+  },
+  {
+   "id": "barakkat",
+   "name": "Barakkat Rouge 540",
+   "brand": "Fragrance World",
+   "cat": [
+    "unisex",
+    "arabic"
+   ],
+   "gender": "Unisex",
+   "family": "Amber Floral",
+   "sizes": [
+    [
+     100,
+     2700,
+     3400,
+     25
+    ]
+   ],
+   "notes": {
+    "t": [
+     "Saffron",
+     "Jasmine"
+    ],
+    "m": [
+     "Amberwood",
+     "Ambergris"
+    ],
+    "b": [
+     "Fir Resin",
+     "Cedar"
+    ]
+   },
+   "lon": 4,
+   "proj": 4,
+   "seasons": [
+    "All year"
+   ],
+   "occ": [
+    "Evening",
+    "Party",
+    "Gift"
+   ],
+   "rate": 4.5,
+   "rc": 203,
+   "tags": [
+    "best",
+    "sale"
+   ],
+   "like": [
+    "Baccarat Rouge 540"
+   ],
+   "glass": "#C4444E",
+   "cap": "#E3C378",
+   "desc": "Sweet saffron and that burnt-sugar amber everyone recognises. Sprays a little thinner than the original but nobody will ask."
+  },
+  {
+   "id": "ameer",
+   "name": "Ameer Al Oud VIP",
+   "brand": "Fragrance World",
+   "cat": [
+    "oud",
+    "arabic",
+    "unisex"
+   ],
+   "gender": "Unisex",
+   "family": "Oud Amber",
+   "sizes": [
+    [
+     100,
+     3100,
+     0,
+     16
+    ]
+   ],
+   "notes": {
+    "t": [
+     "Pineapple",
+     "Saffron"
+    ],
+    "m": [
+     "Oud",
+     "Rose",
+     "Patchouli"
+    ],
+    "b": [
+     "Amber",
+     "Musk",
+     "Vanilla"
+    ]
+   },
+   "lon": 5,
+   "proj": 5,
+   "seasons": [
+    "Autumn",
+    "Winter"
+   ],
+   "occ": [
+    "Eid",
+    "Evening",
+    "Wedding"
+   ],
+   "rate": 4.4,
+   "rc": 76,
+   "tags": [],
+   "like": [
+    "Initio Oud for Greatness"
+   ],
+   "glass": "#3F2A1E",
+   "cap": "#C08A2E",
+   "desc": "Loud, sweet oud. If you want to be smelled across the room during Eid, this is the bottle."
+  },
+  {
+   "id": "sauvage",
+   "name": "Sauvage Eau de Parfum",
+   "brand": "Dior",
+   "cat": [
+    "men",
+    "luxury"
+   ],
+   "gender": "Men",
+   "family": "Amber Fougère",
+   "sizes": [
+    [
+     100,
+     9800,
+     11500,
+     6
+    ],
+    [
+     60,
+     7200,
+     0,
+     8
+    ]
+   ],
+   "notes": {
+    "t": [
+     "Bergamot",
+     "Sichuan Pepper"
+    ],
+    "m": [
+     "Lavender",
+     "Star Anise",
+     "Nutmeg"
+    ],
+    "b": [
+     "Ambroxan",
+     "Vanilla",
+     "Vetiver"
+    ]
+   },
+   "lon": 5,
+   "proj": 4,
+   "seasons": [
+    "All year"
+   ],
+   "occ": [
+    "Office",
+    "Date",
+    "Formal"
+   ],
+   "rate": 4.8,
+   "rc": 341,
+   "tags": [
+    "best",
+    "sale"
+   ],
+   "like": [
+    "Lattafa Asad",
+    "Afnan 9PM"
+   ],
+   "glass": "#1E3A3F",
+   "cap": "#2A2E31",
+   "desc": "The reference point for modern men's fragrance. Sealed, original, with the batch code visible on the box before you buy."
+  },
+  {
+   "id": "jadore",
+   "name": "J'adore Eau de Parfum",
+   "brand": "Dior",
+   "cat": [
+    "women",
+    "luxury"
+   ],
+   "gender": "Women",
+   "family": "Floral",
+   "sizes": [
+    [
+     100,
+     11200,
+     0,
+     5
+    ]
+   ],
+   "notes": {
+    "t": [
+     "Pear",
+     "Melon",
+     "Magnolia"
+    ],
+    "m": [
+     "Jasmine",
+     "Rose",
+     "Tuberose"
+    ],
+    "b": [
+     "Musk",
+     "Vanilla",
+     "Blackberry"
+    ]
+   },
+   "lon": 4,
+   "proj": 3,
+   "seasons": [
+    "Spring",
+    "Summer"
+   ],
+   "occ": [
+    "Formal",
+    "Wedding",
+    "Gift"
+   ],
+   "rate": 4.8,
+   "rc": 212,
+   "tags": [],
+   "like": [
+    "Ahmed Al Maghribi Nafisa"
+   ],
+   "glass": "#D8B25E",
+   "cap": "#C9A227",
+   "desc": "A full bouquet of white flowers, elegant rather than sweet. The safest luxury gift for a woman you do not know well."
+  },
+  {
+   "id": "bleu",
+   "name": "Bleu de Chanel Eau de Parfum",
+   "brand": "Chanel",
+   "cat": [
+    "men",
+    "luxury"
+   ],
+   "gender": "Men",
+   "family": "Woody Aromatic",
+   "sizes": [
+    [
+     100,
+     12400,
+     0,
+     4
+    ]
+   ],
+   "notes": {
+    "t": [
+     "Grapefruit",
+     "Lemon",
+     "Mint"
+    ],
+    "m": [
+     "Ginger",
+     "Jasmine",
+     "Nutmeg"
+    ],
+    "b": [
+     "Incense",
+     "Sandalwood",
+     "Cedar"
+    ]
+   },
+   "lon": 5,
+   "proj": 4,
+   "seasons": [
+    "All year"
+   ],
+   "occ": [
+    "Office",
+    "Formal",
+    "Date"
+   ],
+   "rate": 4.9,
+   "rc": 276,
+   "tags": [
+    "best"
+   ],
+   "like": [
+    "Rasasi Hawas"
+   ],
+   "glass": "#1F3B63",
+   "cap": "#111417",
+   "desc": "Citrus, incense and dry wood. Never wrong, never loud, and it smells like a clean shirt and a good job."
+  },
+  {
+   "id": "coco",
+   "name": "Coco Mademoiselle EDP",
+   "brand": "Chanel",
+   "cat": [
+    "women",
+    "luxury"
+   ],
+   "gender": "Women",
+   "family": "Chypre Floral",
+   "sizes": [
+    [
+     100,
+     12900,
+     0,
+     4
+    ]
+   ],
+   "notes": {
+    "t": [
+     "Orange",
+     "Bergamot",
+     "Grapefruit"
+    ],
+    "m": [
+     "Turkish Rose",
+     "Jasmine",
+     "Litchi"
+    ],
+    "b": [
+     "Patchouli",
+     "Vetiver",
+     "White Musk"
+    ]
+   },
+   "lon": 5,
+   "proj": 4,
+   "seasons": [
+    "All year"
+   ],
+   "occ": [
+    "Formal",
+    "Evening",
+    "Wedding"
+   ],
+   "rate": 4.9,
+   "rc": 188,
+   "tags": [],
+   "like": [
+    "Maison Alhambra Delilah"
+   ],
+   "glass": "#E8C9A0",
+   "cap": "#141719",
+   "desc": "Orange and patchouli, confident and adult. The bottle women re-buy for twenty years."
+  },
+  {
+   "id": "oudwood",
+   "name": "Oud Wood",
+   "brand": "Tom Ford",
+   "cat": [
+    "oud",
+    "luxury",
+    "unisex"
+   ],
+   "gender": "Unisex",
+   "family": "Woody Oud",
+   "sizes": [
+    [
+     50,
+     15500,
+     0,
+     3
+    ]
+   ],
+   "notes": {
+    "t": [
+     "Rosewood",
+     "Cardamom",
+     "Chinese Pepper"
+    ],
+    "m": [
+     "Oud",
+     "Sandalwood",
+     "Vetiver"
+    ],
+    "b": [
+     "Tonka",
+     "Vanilla",
+     "Amber"
+    ]
+   },
+   "lon": 4,
+   "proj": 3,
+   "seasons": [
+    "Autumn",
+    "Winter"
+   ],
+   "occ": [
+    "Formal",
+    "Evening",
+    "Signature"
+   ],
+   "rate": 4.9,
+   "rc": 97,
+   "tags": [
+    "best"
+   ],
+   "like": [
+    "Ahmed Al Maghribi Mukhallat Malaki"
+   ],
+   "glass": "#4A2E1E",
+   "cap": "#171A1C",
+   "desc": "Oud made smooth and wearable for people who find traditional mukhallat too much. Quiet, expensive, close to the skin."
+  },
+  {
+   "id": "tobacco",
+   "name": "Tobacco Vanille",
+   "brand": "Tom Ford",
+   "cat": [
+    "luxury",
+    "unisex"
+   ],
+   "gender": "Unisex",
+   "family": "Oriental Spicy",
+   "sizes": [
+    [
+     50,
+     16200,
+     0,
+     3
+    ]
+   ],
+   "notes": {
+    "t": [
+     "Tobacco Leaf",
+     "Spicy Notes"
+    ],
+    "m": [
+     "Vanilla",
+     "Cocoa",
+     "Tonka",
+     "Dried Fruits"
+    ],
+    "b": [
+     "Woody Notes",
+     "Tonka Bean"
+    ]
+   },
+   "lon": 5,
+   "proj": 4,
+   "seasons": [
+    "Winter"
+   ],
+   "occ": [
+    "Evening",
+    "Formal",
+    "Signature"
+   ],
+   "rate": 4.8,
+   "rc": 104,
+   "tags": [],
+   "like": [
+    "Lattafa Asad",
+    "Lattafa Khamrah"
+   ],
+   "glass": "#3E2A1A",
+   "cap": "#C9A227",
+   "desc": "Pipe tobacco, vanilla and dried fruit. A winter-night scent — wearing it in Addis sun is a waste of good money."
+  },
+  {
+   "id": "ibraq-oud",
+   "name": "Signature Oud Attar Oil",
+   "brand": "IBRAQ",
+   "cat": [
+    "oils",
+    "oud",
+    "unisex"
+   ],
+   "gender": "Unisex",
+   "family": "Oud Attar",
+   "sizes": [
+    [
+     12,
+     1450,
+     1800,
+     34
+    ],
+    [
+     6,
+     850,
+     0,
+     40
+    ]
+   ],
+   "notes": {
+    "t": [
+     "Saffron",
+     "Clove"
+    ],
+    "m": [
+     "Rose",
+     "Agarwood"
+    ],
+    "b": [
+     "Amber",
+     "White Musk"
+    ]
+   },
+   "lon": 5,
+   "proj": 3,
+   "seasons": [
+    "All year"
+   ],
+   "occ": [
+    "Mosque",
+    "Daily",
+    "Eid"
+   ],
+   "rate": 4.7,
+   "rc": 142,
+   "tags": [
+    "sale",
+    "best"
+   ],
+   "like": [
+    "Ahmed Al Maghribi Mukhallat Malaki"
+   ],
+   "glass": "#3A2118",
+   "cap": "#C08A2E",
+   "desc": "Alcohol-free oil, poured into a roll-on. Two dabs on the wrist and behind the ear is the whole day."
+  },
+  {
+   "id": "ibraq-musk",
+   "name": "Musk Tahara Oil",
+   "brand": "IBRAQ",
+   "cat": [
+    "oils",
+    "unisex"
+   ],
+   "gender": "Unisex",
+   "family": "White Musk",
+   "sizes": [
+    [
+     6,
+     690,
+     0,
+     52
+    ]
+   ],
+   "notes": {
+    "t": [
+     "Aldehydes",
+     "Pear"
+    ],
+    "m": [
+     "White Flowers",
+     "Iris"
+    ],
+    "b": [
+     "White Musk",
+     "Sandalwood"
+    ]
+   },
+   "lon": 3,
+   "proj": 2,
+   "seasons": [
+    "All year"
+   ],
+   "occ": [
+    "Daily",
+    "Mosque",
+    "Gift"
+   ],
+   "rate": 4.8,
+   "rc": 219,
+   "tags": [
+    "best"
+   ],
+   "like": [],
+   "glass": "#EFE7DA",
+   "cap": "#C9C2B4",
+   "desc": "Clean, soft, alcohol-free white musk. The everyday oil people buy three at a time."
+  },
+  {
+   "id": "ibraq-spray",
+   "name": "Blue Wave Body Spray",
+   "brand": "IBRAQ",
+   "cat": [
+    "spray",
+    "men"
+   ],
+   "gender": "Men",
+   "family": "Aquatic",
+   "sizes": [
+    [
+     200,
+     480,
+     600,
+     60
+    ]
+   ],
+   "notes": {
+    "t": [
+     "Sea Salt",
+     "Grapefruit"
+    ],
+    "m": [
+     "Lavender",
+     "Geranium"
+    ],
+    "b": [
+     "Driftwood",
+     "Ambroxan"
+    ]
+   },
+   "lon": 2,
+   "proj": 3,
+   "seasons": [
+    "Summer",
+    "Spring"
+   ],
+   "occ": [
+    "Gym",
+    "Daily",
+    "Campus"
+   ],
+   "rate": 4.2,
+   "rc": 88,
+   "tags": [
+    "sale"
+   ],
+   "like": [],
+   "glass": "#3E6E96",
+   "cap": "#D6D9DC",
+   "desc": "Cheap, fresh, and fine for the gym bag. Do not expect it past lunchtime — that is not what it is for."
+  },
+  {
+   "id": "giftset5",
+   "name": "Discovery Gift Set — 5 × 30 ml",
+   "brand": "Lattafa",
+   "cat": [
+    "gift",
+    "arabic",
+    "travel"
+   ],
+   "gender": "Unisex",
+   "family": "Mixed",
+   "sizes": [
+    [
+     150,
+     3900,
+     4900,
+     15
+    ]
+   ],
+   "notes": {
+    "t": [
+     "Asad",
+     "Khamrah"
+    ],
+    "m": [
+     "Yara",
+     "Fakhar"
+    ],
+    "b": [
+     "Ana Abiyedh"
+    ]
+   },
+   "lon": 4,
+   "proj": 4,
+   "seasons": [
+    "All year"
+   ],
+   "occ": [
+    "Gift",
+    "Wedding",
+    "Eid"
+   ],
+   "rate": 4.7,
+   "rc": 73,
+   "tags": [
+    "sale",
+    "best"
+   ],
+   "like": [],
+   "glass": "#5E3B2C",
+   "cap": "#C08A2E",
+   "desc": "Five full-size-enough bottles in one box. The safest gift in the shop because nobody has to guess."
+  },
+  {
+   "id": "travel3",
+   "name": "Travel Trio — 3 × 10 ml Refillable",
+   "brand": "IBRAQ",
+   "cat": [
+    "travel",
+    "gift"
+   ],
+   "gender": "Unisex",
+   "family": "Empty refillables",
+   "sizes": [
+    [
+     30,
+     990,
+     0,
+     45
+    ]
+   ],
+   "notes": {
+    "t": [
+     "Fill with any bottle"
+    ],
+    "m": [
+     "Leak-proof atomiser"
+    ],
+    "b": [
+     "Aluminium shell"
+    ]
+   },
+   "lon": 0,
+   "proj": 0,
+   "seasons": [
+    "All year"
+   ],
+   "occ": [
+    "Travel",
+    "Handbag",
+    "Gift"
+   ],
+   "rate": 4.5,
+   "rc": 41,
+   "tags": [
+    "new"
+   ],
+   "like": [],
+   "glass": "#8A8F92",
+   "cap": "#C08A2E",
+   "desc": "Three refillable atomisers so you can carry a 100 ml bottle in your pocket. We fill them in the shop for free."
+  },
+  {
+   "id": "mubakhar",
+   "name": "Attar Oud Mubakhar Oil",
+   "brand": "Ahmed Al Maghribi",
+   "cat": [
+    "oils",
+    "oud"
+   ],
+   "gender": "Unisex",
+   "family": "Bakhoor Oud",
+   "sizes": [
+    [
+     12,
+     1900,
+     0,
+     20
+    ]
+   ],
+   "notes": {
+    "t": [
+     "Resin Smoke",
+     "Clove"
+    ],
+    "m": [
+     "Rose",
+     "Agarwood dust"
+    ],
+    "b": [
+     "Sweet Amber",
+     "Sandal"
+    ]
+   },
+   "lon": 5,
+   "proj": 3,
+   "seasons": [
+    "Autumn",
+    "Winter"
+   ],
+   "occ": [
+    "Eid",
+    "Mosque",
+    "Evening"
+   ],
+   "rate": 4.8,
+   "rc": 52,
+   "tags": [
+    "new"
+   ],
+   "like": [
+    "IBRAQ Signature Oud"
+   ],
+   "glass": "#6B4A2F",
+   "cap": "#3A2118",
+   "desc": "Smells like bakhoor smoke caught in cloth. Traditional, warm, and made to be worn on a jacket rather than skin."
+  }
+ ],
+ "settings": {
+  "name": "Zubeyr Perfume",
+  "slogan": "Luxury Fragrance for Everyone",
+  "slogan2": "Original Perfumes. Delivered Across Ethiopia.",
+  "domain": "www.zubeyrperfume.com",
+  "phone": "+251914713122",
+  "phoneShown": "+251 91 471 3122",
+  "whatsapp": "251914713122",
+  "telegram": "ZubeyrPerfume",
+  "email": "sales@zubeyrperfume.com",
+  "address": "Bole Road, Addis Ababa, Ethiopia",
+  "freeOverAddis": 2500,
+  "telebirr": "0900 000 000",
+  "cbeBirr": "0900 000 000",
+  "bankName": "Commercial Bank of Ethiopia",
+  "bankAcct": "1000 1234 5678 90",
+  "bankHolder": "Zubeyr Perfume",
+  "chapaUrl": "",
+  "santimUrl": "",
+  "cardUrl": "",
+  "gpayUrl": "",
+  "apayUrl": ""
+ },
+ "categories": [
+  {
+   "id": "men",
+   "name": "Men's Perfumes",
+   "sub": "Fresh · woody · spicy",
+   "c": "#1E4149"
+  },
+  {
+   "id": "women",
+   "name": "Women's Perfumes",
+   "sub": "Floral · sweet · musky",
+   "c": "#A5455A"
+  },
+  {
+   "id": "unisex",
+   "name": "Unisex",
+   "sub": "Wearable by anyone",
+   "c": "#6E7F79"
+  },
+  {
+   "id": "arabic",
+   "name": "Arabic Perfumes",
+   "sub": "Dubai & Gulf houses",
+   "c": "#8A5A20"
+  },
+  {
+   "id": "luxury",
+   "name": "Luxury Collection",
+   "sub": "Designer originals",
+   "c": "#2A2530"
+  },
+  {
+   "id": "oud",
+   "name": "Oud Collection",
+   "sub": "Agarwood & bakhoor",
+   "c": "#3A2118"
+  },
+  {
+   "id": "gift",
+   "name": "Gift Sets",
+   "sub": "Boxed & ready to give",
+   "c": "#C08A2E"
+  },
+  {
+   "id": "spray",
+   "name": "Body Spray",
+   "sub": "Everyday, easy on price",
+   "c": "#3E6E96"
+  },
+  {
+   "id": "oils",
+   "name": "Perfume Oils",
+   "sub": "Alcohol-free attar",
+   "c": "#7A5C2E"
+  },
+  {
+   "id": "travel",
+   "name": "Travel Size",
+   "sub": "Pocket & handbag",
+   "c": "#4C6B5A"
+  }
+ ],
+ "brands": [
+  "Osma",
+  "Gissah",
+  "Arabian Oud",
+  "Lattafa",
+  "Afnan",
+  "Armaf",
+  "Rasasi",
+  "Ahmed Al Maghribi",
+  "Maison Alhambra",
+  "Fragrance World",
+  "Dior",
+  "Chanel",
+  "Tom Ford",
+  "IBRAQ"
+ ]
+}
